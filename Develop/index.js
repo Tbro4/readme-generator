@@ -64,9 +64,9 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
+// function writeToFile(fileName, data) {}
 // TODO: Create a function to initialize app
+// init function both runs and creates readme
 function init() {
   //returns a promise object
   inquirer.prompt(questions).then((data) => {

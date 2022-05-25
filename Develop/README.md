@@ -1,9 +1,9 @@
-# Teeebus
+# Crypto Tracker
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  this is a description
+  This is an app to track your favorite cryptocurrencies, as well as your crypto wallet balances.
 
   ## Table of Contents
   
@@ -27,13 +27,13 @@
   ```
 
   ## Usage
-  asdf
+  This repo shows the basic functions of my app
 
   ## License 
-  This project is licensed with BSD 3-clause.
+  This project is licensed with MIT.
 
   ## Contributing
-  
+  Email me(link below) for instructions
 
   ## Tests
   To run tests, run the following command:
@@ -43,5 +43,5 @@
   ```
 
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at [gmail](mailto:gmail). You can find more of my work at [github.com/Teebus](github.com/Teebus)
+  If you have any questions about the repo, open an issue or contact me directly at [Thetylerbrooks@gmail.com](mailto:Thetylerbrooks@gmail.com). You can find more of my work at [github.com/Tbro4](github.com/Tbro4)
 
