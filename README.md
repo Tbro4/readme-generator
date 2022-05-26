@@ -1,7 +1,5 @@
 # README Generator
 
-Testing for changes
-
 This is a command-line script program that generates a README.md file based on the user's inputs.
 
 [Click to watch a walkthrough video](https://youtu.be/oABhQ5CuLTI)
