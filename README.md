@@ -2,11 +2,11 @@
 
 This is a command-line script program that generates a README.md file based on the user's inputs.
 
-[Click to watch a walkthrough video](https://youtu.be/oABhQ5CuLTI)
+[Click to watch a walkthrough video](https://youtu.be/9gjx0pEVa0k)
 
 This app is designed to create a professional-looking README file for a user's repository.
 
-When the user navigates to the Develop folder in their terminal, they enter 'node index.js' to begin the script.
+When the user navigates to the root directory in their terminal, they enter 'node index.js' to begin the script.
 
 They are asked to input their Github name, Email, Project title, Description, and Installation and Usage instructions, as well as choose a License from a list.
 
